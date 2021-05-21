@@ -5,29 +5,13 @@ module.exports = {
     siteUrl: `https://emilianoblog.netlify.app`,
     description: `This is Emiliano Garcia's personal blog.`,
     hero: {
-      heading: `Welcome to Emiliano's blog.`,
+      heading: `Welcome to my blog, for the DA Independent study, and personal use.`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://github.com/EmilianoGarciaLopez`,
       },
     ],
   },
