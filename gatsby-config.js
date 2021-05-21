@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Emiliano's Blog`,
-    name: `Emiliano García López`,
+    name: `Emiliano García-López`,
     siteUrl: `https://emilianoblog.netlify.app`,
     description: `This is Emiliano Garcia's personal blog.`,
     hero: {
@@ -13,6 +13,14 @@ module.exports = {
         name: `github`,
         url: `https://github.com/EmilianoGarciaLopez`,
       },
+      {
+        name: `twitter`,
+        url: `https://twitter.com`
+      },
+      {
+        name: `linkedin`,
+        url: `https://linkedin.com`
+      }
     ],
   },
   plugins: [
