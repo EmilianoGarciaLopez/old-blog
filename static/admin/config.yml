@@ -1,6 +1,7 @@
 backend: # Set up your backend
   name: github
   repo: EmilianoGarciaLopez/Personal-Blog
+  branch: main
 
 local_backend: true # Optional if you want to use the local proxy mode
 
