@@ -1,1 +1,0 @@
-This is the personal blog site by Emiliano Garcia-Lopez
