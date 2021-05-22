@@ -13,14 +13,6 @@ module.exports = {
         name: `github`,
         url: `https://github.com/EmilianoGarciaLopez`,
       },
-      {
-        name: `twitter`,
-        url: `https://twitter.com`
-      },
-      {
-        name: `linkedin`,
-        url: `https://linkedin.com`
-      }
     ],
   },
   plugins: [
