@@ -1,0 +1,17 @@
+---
+title: A Conversation With John Rose
+author: Emiliano García-López
+date: 2021-07-13
+excerpt: A conversation with Duke political science professor John Rose
+hero: images/joshua-hoehne-7s1j-dz5kyq-unsplash.jpg
+---
+I was recently presented with the opportunity of talking to John Rose, a Duke professor who teaches political science, but more importantly, a class where he gathers students from different sides of the political spectrum and has them discuss a specific policy issue; he wrote an [op-ed regarding his class](https://www.wsj.com/articles/how-i-liberated-my-college-classroom-11624573083)for the wall street journal. Given his expertise in holding controversial conversations, I thought talking to him would be an excellent chance for us to get some tips on how to best direct a discussion and grow our organization and market ourselves.
+
+He invited us to meet him in the Duke faculty club one Saturday meeting; it was a casual setting, and he wanted to learn more about what we did, so we pitched him our organization, mentioning how we had reached somewhere around 15 schools, with the hope of getting 30 before the end of the summer. We mentioned how we had done at DA, including some points of success and failure, and how we hoped to eventually talk about more controversial topics which all seem to involve identity; he mentioned that unlike every other type of political issue say, taxation, identity issues were the most personal, and thus the hardest to broach, but the most necessary given our political climate. We shared some aspirations and overall had a similar vision of the ideal environment — one in which we could all talk to each other dis-personally but passionately, knowing that our peers had genuine disagreements rather than believing the pervasive notion that the other side is the enemy. To this end, he gave us some important advice on how to get people to open up and talk sensibly:
+
+* Show people why discussion is not only good but necessary. During the 2016 election, over 9 million Americans lost friends over politics, and today more Americans are in ideological echo chambers than ever before. He noted that people like to see themselves as open-minded and rational and that appealing to their desire to be better, more knowledgeable people will help some get over their initial resistance to sitting down and discussing an issue.
+* Humanize arguments — make sure everyone in the conversation understands that they are talking to fallible humans with who they can empathize and that politics should not be the end-all to their existence.
+
+He also gave us tips on the expansion front, urging us to continue to do what we are doing even when if we get some “haters” — something which happened to him in the early days of his program. On the business side, he thought that we should remain focused on the niche of high schools since there are no organizations that he knows of that have a firm hold on that market.
+
+Daniel (our partner from another school), Omar, and I were delighted to have met John Rose; apart from getting some great advice, we had a very enjoyable conversation. We spoke for about an hour and a half and even discussed some political philosophy as well as some other tangential topics. I’m hoping that doing this
