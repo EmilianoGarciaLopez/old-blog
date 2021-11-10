@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://emilianoblog.netlify.app`,
     description: `This is Emiliano Garcia's personal blog.`,
     hero: {
-      heading: `Welcome to my blog, for the DA Independent study, and personal use.`,
+      heading: `Politics. Entrepreneurship. Casual Conversations`,
       maxWidth: 652,
     },
     social: [
