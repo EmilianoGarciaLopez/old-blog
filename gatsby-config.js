@@ -13,6 +13,10 @@ module.exports = {
         name: `github`,
         url: `https://github.com/EmilianoGarciaLopez`,
       },
+      {
+        name: `instagram`,
+        url: `https://www.instagram.com/crossing.the.divide/`,
+      },
     ],
   },
   plugins: [
