@@ -3,7 +3,7 @@ module.exports = {
     title: `Emiliano's Blog`,
     name: `Emiliano García-López`,
     siteUrl: `https://emilianogarcia.netlify.app`,
-    description: `This is Emiliano Garcia's personal blog.`,
+    description: `This is Emiliano Garcia's personal blog covering topics ranging from politics, entrepreneurship, and philosophy`,
     hero: {
       heading: `Politics. Entrepreneurship. Casual Conversations`,
       maxWidth: 652,
