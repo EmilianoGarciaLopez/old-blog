@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Emiliano's Blog`,
     name: `Emiliano García-López`,
-    siteUrl: `https://emilianoblog.netlify.app`,
+    siteUrl: `https://emilianogarcia.netlify.app`,
     description: `This is Emiliano Garcia's personal blog.`,
     hero: {
       heading: `Politics. Entrepreneurship. Casual Conversations`,
