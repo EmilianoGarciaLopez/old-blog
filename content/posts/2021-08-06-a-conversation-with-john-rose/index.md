@@ -14,4 +14,4 @@ He invited us to meet him in the Duke faculty club one Saturday meeting; it was 
 
 He also gave us tips on the expansion front, urging us to continue to do what we are doing even when if we get some “haters” — something which happened to him in the early days of his program. On the business side, he thought that we should remain focused on the niche of high schools since there are no organizations that he knows of that have a firm hold on that market.
 
-Daniel (our partner from another school), Omar, and I were delighted to have met John Rose; apart from getting some great advice, we had a very enjoyable conversation. We spoke for about an hour and a half and even discussed some political philosophy as well as some other tangential topics. I’m hoping that doing this
+Daniel and I were delighted to have met John Rose; apart from getting some great advice, we had a very enjoyable conversation. We spoke for about an hour and a half and even discussed some political philosophy as well as some other tangential topics. I’m hoping that doing this
