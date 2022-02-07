@@ -5,17 +5,13 @@ module.exports = {
     siteUrl: `https://emilianogarcia.tech`,
     description: `This is Emiliano Garcia's personal blog covering topics ranging from politics, entrepreneurship, and philosophy`,
     hero: {
-      heading: `Politics. Entrepreneurship. Casual Conversations`,
+      heading: `Entrepreneurship. Programming. Casual Conversations`,
       maxWidth: 652,
     },
     social: [
       {
         name: `github`,
         url: `https://github.com/EmilianoGarciaLopez`,
-      },
-      {
-        name: `instagram`,
-        url: `https://www.instagram.com/crossing.the.divide/`,
       },
     ],
   },
