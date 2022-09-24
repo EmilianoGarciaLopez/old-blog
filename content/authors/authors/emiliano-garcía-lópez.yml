@@ -1,9 +1,8 @@
 name: Emiliano García-López
 bio: Hey. I'm Emiliano García-López. I enjoy writing, computer science, and
-  learning about politics. I'm also founder of Crossing the Divide and
-  photondesign
+  learning about politics. I'm also founder of Crossing the Divide
 featured: true
 avatar: avatars/dsc01154.jpg
 social:
-  - url: https://github.com/EmilianoGarciaLopez
+  - https://github.com/EmilianoGarciaLopez
   - https://www.instagram.com/crossing.the.div/
